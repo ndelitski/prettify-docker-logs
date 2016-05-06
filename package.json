@@ -1,0 +1,23 @@
+{
+  "name": "prettify-docker-logs",
+  "version": "1.0.0",
+  "description": "Pretty output docker logs json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndelitski/prettify-docker-logs.git"
+  },
+  "keywords": [
+    "docker",
+    "logs"
+  ],
+  "author": "Nick Delitski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndelitski/prettify-docker-logs/issues"
+  },
+  "homepage": "https://github.com/ndelitski/prettify-docker-logs#readme"
+}
